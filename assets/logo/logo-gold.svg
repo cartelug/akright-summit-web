@@ -1,0 +1,26 @@
+<svg viewBox="0 0 240 220" xmlns="http://www.w3.org/2000/svg" aria-label="Akright Summit">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8C988"/>
+      <stop offset="40%" stop-color="#C9A961"/>
+      <stop offset="65%" stop-color="#9A7F44"/>
+      <stop offset="100%" stop-color="#D4B873"/>
+    </linearGradient>
+    <clipPath id="aks-clip-2">
+      <path d="M120 8 L230 210 L10 210 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#aks-clip-2)">
+    <rect width="240" height="220" fill="url(#goldGrad)"/>
+    <path d="M120 56 L156 142 L84 142 Z" fill="#0A0908"/>
+    <path d="M168 56
+             C 178 76, 158 96, 138 108
+             C 116 120, 122 138, 144 154
+             C 162 168, 180 184, 192 202
+             L 168 202
+             C 156 188, 138 174, 124 162
+             C 108 148, 110 130, 130 118
+             C 152 106, 168 88, 158 64 Z" fill="#0A0908"/>
+    <path d="M32 196 L208 196 L196 210 L20 210 Z" fill="#0A0908"/>
+  </g>
+</svg>

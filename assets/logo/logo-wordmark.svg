@@ -1,0 +1,22 @@
+<svg viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+  <!-- Icon -->
+  <g transform="translate(0,12) scale(0.45)">
+    <defs>
+      <clipPath id="wm-clip">
+        <path d="M120 8 L230 210 L10 210 Z"/>
+      </clipPath>
+    </defs>
+    <g clip-path="url(#wm-clip)">
+      <rect width="240" height="220"/>
+      <path d="M120 56 L156 142 L84 142 Z" fill="#FFFFFF"/>
+      <path d="M168 56 C 178 76, 158 96, 138 108 C 116 120, 122 138, 144 154 C 162 168, 180 184, 192 202 L 168 202 C 156 188, 138 174, 124 162 C 108 148, 110 130, 130 118 C 152 106, 168 88, 158 64 Z" fill="#FFFFFF"/>
+      <path d="M32 196 L208 196 L196 210 L20 210 Z" fill="#FFFFFF"/>
+    </g>
+  </g>
+  <!-- Wordmark -->
+  <g transform="translate(130,0)">
+    <text x="0" y="48" font-family="'Italiana', 'Playfair Display', serif" font-size="42" letter-spacing="3">AKRIGHT</text>
+    <text x="0" y="84" font-family="'Inter', sans-serif" font-size="14" font-weight="500" letter-spacing="14">SUMMIT</text>
+    <line x1="-2" y1="60" x2="220" y2="60" stroke="currentColor" stroke-width="0.6" opacity="0.45"/>
+  </g>
+</svg>
